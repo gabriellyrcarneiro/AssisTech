@@ -65,7 +65,7 @@ export function OrderDetailPage() {
       <PageHeader
         eyebrow="Detalhe da ordem"
         title={`${order.code} - ${order.customer?.name}`}
-        description={`${order.device?.brand} ${order.device?.model} • ${order.device?.problemDescription}`}
+        description={`${order.device?.brand} ${order.device?.model} - ${order.device?.problemDescription}`}
         action={
           <Link className="btn-secondary" to="/ordens">
             <ArrowLeft size={17} />
