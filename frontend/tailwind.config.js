@@ -5,12 +5,13 @@ export default {
     extend: {
       colors: {
         primary: {
-          50: '#eef8ff',
-          100: '#d9efff',
-          500: '#1b7dd8',
-          600: '#0f64b5',
-          700: '#114f8d',
-          900: '#102b46',
+          50: '#fff7ed',
+          100: '#ffedd5',
+          200: '#fed7aa',
+          500: '#f97316',
+          600: '#ea580c',
+          700: '#c2410c',
+          900: '#431407',
         },
         ink: '#17212b',
         muted: '#64748b',
@@ -23,4 +24,3 @@ export default {
   },
   plugins: [],
 };
-

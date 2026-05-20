@@ -51,7 +51,7 @@ export function DashboardPage() {
                 <XAxis dataKey="name" tick={{ fontSize: 11 }} interval={0} angle={-18} textAnchor="end" height={80} />
                 <YAxis allowDecimals={false} />
                 <Tooltip />
-                <Bar dataKey="total" fill="#1b7dd8" radius={[6, 6, 0, 0]} />
+                <Bar dataKey="total" fill="#ea580c" radius={[6, 6, 0, 0]} />
               </BarChart>
             </ResponsiveContainer>
           </div>
@@ -78,4 +78,3 @@ export function DashboardPage() {
     </div>
   );
 }
-
