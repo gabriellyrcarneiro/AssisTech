@@ -7,7 +7,7 @@ O AssisTech foi desenvolvido como projeto academico full stack para organizar um
 ## Links
 
 - Repositorio: [github.com/gabriellyrcarneiro/AssisTech](https://github.com/gabriellyrcarneiro/AssisTech)
-- Deploy Vercel: o projeto ja esta configurado para publicacao; o link final e gerado com `npx vercel --prod`
+- Deploy Vercel: [assistech-eight.vercel.app](https://assistech-eight.vercel.app)
 
 ## Objetivo
 

@@ -66,7 +66,7 @@ Uma apresentacao de 7 a 10 minutos funciona bem:
 9. GitHub e Vercel
    - Mostre o repositorio.
    - Abra o historico de commits.
-   - Mostre o link publicado na Vercel.
+   - Mostre o link publicado na Vercel: https://assistech-eight.vercel.app.
 
 ## Comandos uteis
 
