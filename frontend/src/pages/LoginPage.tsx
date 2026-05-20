@@ -72,7 +72,7 @@ export function LoginPage() {
             </div>
             <div>
               <h2 className="text-2xl font-black text-ink">Entrar no sistema</h2>
-              <p className="text-sm text-muted">Use uma conta demo depois de rodar o seed.</p>
+              <p className="text-sm text-muted">Use uma conta demo para acessar o painel.</p>
             </div>
           </div>
 
@@ -126,4 +126,3 @@ export function LoginPage() {
     </main>
   );
 }
-
