@@ -1,8 +1,8 @@
 # AssisTech
 
-Sistema web para gestao de assistencias tecnicas de celulares e notebooks.
+Sistema web para **gestao de assistencias tecnicas de celulares e notebooks.**
 
-O AssisTech foi desenvolvido como projeto academico full stack para organizar um problema comum em assistencias pequenas: informacoes importantes ficam espalhadas em cadernos, planilhas, mensagens e anotacoes soltas. A aplicacao centraliza clientes, aparelhos, ordens de servico, diagnosticos, orcamentos, pagamentos e entregas em um unico fluxo web.
+O AssisTech foi desenvolvido como **projeto academico full stack** para organizar um problema comum em assistencias pequenas: informacoes importantes ficam espalhadas em cadernos, planilhas, mensagens e anotacoes soltas. A aplicacao centraliza clientes, aparelhos, ordens de servico, diagnosticos, orcamentos, pagamentos e entregas em um unico fluxo web.
 
 ## Links
 
@@ -204,19 +204,7 @@ O desenvolvimento foi separado em commits semanticos, como:
 - `docs: adiciona guia de apresentacao`
 - `feat: prepara deploy na vercel`
 
-## Como apresentar em sala de aula
-
-1. Comece explicando o problema: pequenas assistencias tecnicas costumam controlar clientes, aparelhos e ordens em cadernos, planilhas ou mensagens.
-2. Apresente o objetivo: centralizar esse fluxo em uma aplicacao web full stack.
-3. Mostre o login e explique os perfis `admin`, `atendente`, `tecnico` e `financeiro`.
-4. Abra o dashboard e destaque que os numeros representam clientes, aparelhos, ordens e receita.
-5. Demonstre o cadastro de cliente e aparelho.
-6. Abra uma ordem de servico e mostre os status do atendimento.
-7. No detalhe da OS, registre diagnostico, orcamento, aprovacao, execucao, pagamento e entrega.
-8. Mostre rapidamente a area de usuarios para evidenciar o controle de acesso.
-9. Abra o GitHub e mostre o historico de commits.
-10. Finalize dizendo que o projeto praticou frontend, backend, banco de dados, autenticacao JWT, API REST, deploy e organizacao de um sistema com fluxo real.
 
 ## Autora
 
-Gabrielly Rodrigues
+**Gabrielly Rodrigues**
