@@ -16,8 +16,8 @@ Construir uma aplicacao completa, separando frontend e backend, com autenticacao
 ## Prints do projeto
 
 <p align="center">
-  <img width="220" alt="Captura de tela 2026-05-20 041029" src="https://github.com/user-attachments/assets/612ce6a3-27e0-4572-ac10-9e975727827f" />
-  <img width="220" height="744" alt="Captura de tela 2026-05-20 041052" src="https://github.com/user-attachments/assets/b569541f-4226-4382-8c15-bb85e8dd2d9e" />
+  <img width="1599" height="744" alt="Captura de tela 2026-05-20 041029" src="https://github.com/user-attachments/assets/13197c4e-9120-41ac-9dc3-ba773e096f51" />
+  <img width="1599" height="744" alt="Captura de tela 2026-05-20 041052" src="https://github.com/user-attachments/assets/6fe00c9b-018b-40c6-9ebc-972124d199d0" />
 </p>
 
 <p align="center">
