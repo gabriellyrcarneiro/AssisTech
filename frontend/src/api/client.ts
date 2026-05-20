@@ -1,4 +1,4 @@
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3333/api';
+const API_URL = import.meta.env.VITE_API_URL || (import.meta.env.PROD ? '/api' : 'http://localhost:3333/api');
 
 export async function apiRequest<T>(path: string, options: RequestInit = {}): Promise<T> {
   const token = localStorage.getItem('assistech:token');
@@ -25,4 +25,3 @@ export async function apiRequest<T>(path: string, options: RequestInit = {}): Pr
 }
 
 export const apiUrl = API_URL;
-

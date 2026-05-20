@@ -6,7 +6,7 @@ export async function authenticate(request, _response, next) {
   try {
     const authHeader = request.headers.authorization;
 
-    if (!authHeader?.startsWith('Bearer '')) {
+    if (!authHeader || !authHeader.startsWith('Bearer ')) {
       throw new HttpError(401, 'Token de autenticacao nao informado.');
     }
 
@@ -34,4 +34,3 @@ export function authorize(...roles) {
     next();
   };
 }
-
